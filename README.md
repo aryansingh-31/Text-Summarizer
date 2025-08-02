@@ -1,5 +1,5 @@
 
-# Hi, I'm Aryan! 👋
+# Hi, I'm Aryan!
 
 
 ## 🚀 About This Repository - 
@@ -25,7 +25,7 @@ Text summarization is a vital aspect of Natural Language Processing (NLP), parti
 ```
 
 2. Run the app.py file
-If any library is not installed , then install it by running this code in the terminal.
+If any library is not installed, then install it by running this code in the terminal.
 ```bash
 pip install library_name
 ```
@@ -52,8 +52,4 @@ pip install library_name
 ## License
 
 [MIT](https://github.com/adarsh-naik-2004/NLP-Based-Text-Summarizer/blob/main/LICENSE)
-
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-manjunath-naik-a2004m/)
 
